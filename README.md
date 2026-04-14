@@ -133,4 +133,4 @@ Saved as: `triage_{ALARM_ID}_{TIMESTAMP}.json`
 
 Built by Hassan Hai — exploring applied AI for telecom operations. Background in neutral host DAS, currently completing a postgraduate program in AI/ML.
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](your-portfolio-url)
+[LinkedIn](https://www.linkedin.com/in/hassan73/) · [Portfolio](hassan-aiml)
